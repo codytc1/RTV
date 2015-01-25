@@ -2,8 +2,8 @@
 	"name" : "RTV-Mira",
 	"version" : 1,
 	"creationdate" : -789924903,
-	"modificationdate" : -789924903,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"modificationdate" : -789905810,
+	"viewrect" : [ 25.0, 68.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -19,6 +19,10 @@
 		}
 ,
 		"externals" : 		{
+			"jit.gl.syphonserver.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
 
 		}
 
