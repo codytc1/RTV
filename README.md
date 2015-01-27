@@ -10,5 +10,6 @@ EARLY STAGES OF DEVELOPMENT
 
 real time visual generator based on sound frequencies 
 and volume. distort a 3D object and its texture based
-on the incoming audio. now with mira support for 
-control over a network using the mira app.
+on the incoming audio. using the included touch osc 
+template most controls can be done via a network 
+connection.
