@@ -2,7 +2,7 @@
 	"name" : "RTVv3",
 	"version" : 1,
 	"creationdate" : -789843899,
-	"modificationdate" : -789737467,
+	"modificationdate" : -789650027,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -19,6 +19,10 @@
 		}
 ,
 		"externals" : 		{
+			"jit.gl.syphonserver.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
 
 		}
 
